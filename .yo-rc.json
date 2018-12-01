@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "vn.geardao.sakura"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "sakura",
+    "packageName": "vn.geardao.sakura",
+    "packageFolder": "vn/geardao/sakura",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "memcached",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGMwMDRkMWU4ODdmYTg3ZDY1N2IxMWZjZTEwODkxZTk2M2Q4MjFmYWFhYjNhZmYwYzYzNzFmZDQ1YWE2MDZlY2ZlNmY0NWY1MDEwYmRlOGEyN2RmNmE5M2U4YzMwMDQyNGQyY2ZmYThjZDc1NzQ5MmQ4YjIwY2U0NGZkOWFkZGY=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
