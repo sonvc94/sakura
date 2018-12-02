@@ -6,6 +6,6 @@ services:
         #     - ~/volumes/jhipster/sakura/postgresql/:/var/lib/postgresql/data/
         environment:
             - POSTGRES_USER=sakura
-            - POSTGRES_PASSWORD=
+            - POSTGRES_PASSWORD=1234
         ports:
             - 5432:5432
